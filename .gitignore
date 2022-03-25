@@ -1,0 +1,4 @@
+# remark for ignore folder logs
+logs/
+
+docs/*.txt
